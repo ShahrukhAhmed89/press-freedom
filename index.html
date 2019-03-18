@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link href='//fonts.googleapis.com/css?family=Bree+Serif|Roboto+Slab' rel='stylesheet' type='text/css'>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet"  href="interactive.css">
+	
+
+</head>
+<body>
+    <div id="tooltip"></div>
+    <div class="text-container">
+    <p>The banning of NDTV made a statement; it is just not acceptable to be a dissenting voice. <strong>Questioning the authority comes at a cost, especially for journalists who do their jobs in the right and objective manner</strong>. They are few in numbers, hence isolated among their peers of prominent journalists all aboard the popular opinion. It makes it easy to curb dissent.</p>
+    <p>NDTV is currently facing a one day ban because it broke the Cable TV Rules protocol in its <strong><a href="http://www.hindustantimes.com/india-news/ndtv-india-to-be-taken-off-air-for-a-day-over-pathankot-attack-coverage/story-ABLkwpoDHpmS4rdg5jSUCK.html" target="_blank">Pathankot Coverage</a></strong>. According to Ministry of Information and Broadcasting, a NDTV journalist reported sensitive information about the military operation, ammunition stockpiles and the location of terrorists in a live coverage; all of which could have been used by the terrorists or their handlers. <strong>Hence, it broke the Rule 6(1)(p) of the <a href="http://mib.nic.in/WriteReadData/documents/NDTV_INDIA_Order_2nd_November_2016.pdf">Cable TV Rules</a>&nbsp;which has strict bans against the live coverage of anti-terrorist operations by security forces</strong>. The rule is a quite common sense law, especially after the gross mishandling in reporting of 26/11 anti-terrorist operations by the media.</p>
+    <p>But, there are those who don't qualify NDTV's <strong><a href="http://indianexpress.com/article/india/india-news-india/justice-katju-says-ndtv-ban-illegal-heres-his-law-point-3738387/" target="_blank">Pathankot news relay as live coverage</a></strong>, because nothing from the military operation was shown live. NDTV's own rebuttal states that their coverage was <a href="http://www.ndtv.com/communication/ndtv-statement-on-order-against-our-hindi-channel-ndtv-india-1621155" target="_blank"><strong>more or less similar to other networks</strong></a>, none of whom are facing any retribution. <strong><a href="http://scroll.in/article/820748/ndtv-ban-did-the-modi-government-unfairly-single-the-channel-out" target="_blank">Scroll published a similar analysis</a></strong>&nbsp;where they look at other media networks publishing or broadcasting similar news(also read Angrylok&nbsp;<a href="https://angrylok.wordpress.com/2016/11/06/how-ndtv-india-was-singled-out/" target="_blank">here</a>). There is a suspicion that the whole ban is to shut a journalist who has made the reign of the current ruling party slightly difficult, Ravish Kumar.</p>
+    <p>Ravish has hit a raw nerve with the BJP, for doing his job right. He has always questioned the ruling government's policies and issues. But, these days he is framed as a "Journalist with an agenda" for asking the ruling party tough questions, overlooking the fact that he was tough on previous governments as well. For questioning the BJP, Ravish faces a constant barrage of abuses and threats on Twitter and Facebook, <strong><a href="http://indianexpress.com/article/trending/trending-in-india/ravish-kumar-open-letter-mj-akbar-journalist-minister-cabinet-reshuffle/" target="_blank">which he mentioned in an open letter</a></strong>. Looking at the Indian media one would assume that they operate with a lot of journalistic freedom, but, what is happening with Ravish is indicative of the level of threat and constraint a lot of the journalists operate under. According to&nbsp;2016 World Press Freedom Index, India ranks a disappointing <a href="https://rsf.org/en/ranking" target="_blank"><strong>133rd among 180</strong> </a>countries surveyed. (<em>The map shows the score given to each country in the freedom index, more the score lesser the freedom. Darker the shades of red lesser the freedom. Color Grey means no Data.  &nbsp;Hover the mouse over a country to get ranking on desktop.</em>)</p>
+    </div>
+    <div class='hidden-lg hidden-md visible-xs-block visible-sm-block col-md-12'>
+        <img class='map' src="world_press_freedom.png">
+    </div>
+    <div class='svg-container col-md-12 hidden-sm hidden-xs visible-md-block visible-lg-block' id='graph-container'>
+        <svg  width='100%' height='100%' id='graph1'></svg>
+    </div>
+    <div class="text-container">
+    <p>There is no region that sums up the fear under which journalists operate than the Bastar Region in Chattisgarh. Journalists in Bastar work under a <a href="http://scroll.in/article/805866/not-a-single-journalist-working-without-fear-or-pressure-editors-guild-on-bastar" target="_blank"><strong>constant threat of safety</strong></a>, as they report on the conflict between the Maoist and Government armed forces. Questioning the narrative on the either side puts journalists in trouble. The police are known to arrest, abuse and intimidate journalists who question their one-sided narrative, often associating journalists with the Maoist cause. Then there is the threat of Maoists, who kill journalists for any suspicion of colluding with the cops. <strong>The fear for their life has caused many journalists to flee Bastar, creating a news-reporting vacuum in the region</strong>.</p>
+    <div class='col-xs-12'>
+    <img  src="journalists_killed.png" alt="Jounalist Killed 2015" class="ravish img-responsive">
+    </div>
+    <p>For journalists covering important stories at grassroot levels, questioning an&nbsp;authority can be dangerous. Politicians, Mafias, policemen, gangs and terrorists don't want their actions challenged and hindered. Along with that, India is going through a polarization where everything has become subjective, and the journalists pursuing the truth are fit into ideological boxes. <strong>Morality and rationality are being abandoned for choosing petty sides driven by indignation.</strong> All this makes the future of journalism and its quest for objectivity look bleak. Though good journalism persists despite very little support, it's slowly losing its voice to question the right from the wrong.</p>
+    </div>
+    <script src="https://d3js.org/d3.v4.min.js" charset='UTF-8'></script>
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="interactive.js"></script>
+</body>
+</html>

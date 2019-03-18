@@ -1,0 +1,71 @@
+	 	div#tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 200px;					
+    height: 100px;					
+    padding: 1.5%;				
+    font: 18px sans-serif;		
+    background: white;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;
+    z-index: 1;			
+}
+
+    #tooltip p{ 
+     
+    font: 15px 'Roboto Slab', serif;    
+   
+}
+.text-container{
+  padding: 4% 5% 2% 5%;
+  text-align: justify;
+}
+
+p{
+  padding-bottom: 1%
+}
+
+
+svg{
+	background:steelblue;
+}
+.state-boundary {
+  fill: none;
+  stroke: #fff;
+}
+
+
+.state.selected-boundary {
+  fill: none;
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+
+hr{
+	margin:3%;
+  color:#222;
+}
+
+.col-md-12{
+  padding-left:0px !important;
+  padding-right:0px !important;
+}
+
+.ravish{
+  height:500px;
+  width:100%;
+}
+.map{
+  height:300px;
+  width:100%;
+}
+@media (max-width:768px){
+
+    .ravish{
+      height:300px;
+      width:100%;
+    }
+    
+}

@@ -1,0 +1,181 @@
+Rank,EN_country,id,score
+1,Finland,FIN,8.59
+2,Netherlands,NLD,8.76
+3,Norway,NOR,8.79
+4,Denmark,DNK,8.89
+5,New Zealand,NZL,10.01
+6,Costa Rica,CRI,11.1
+7,Switzerland,CHE,11.76
+8,Sweden,SWE,12.33
+9,Ireland,IRL,12.4
+10,Jamaica,JAM,12.45
+11,Austria,AUT,13.18
+12,Slovakia,SVK,13.26
+13,Belgium,BEL,14.18
+14,Estonia,EST,14.31
+15,Luxembourg,LUX,14.43
+16,Germany,DEU,14.8
+17,Namibia,NAM,15.15
+18,Canada,CAN,15.26
+19,Iceland,ISL,15.3
+20,Uruguay,URY,15.88
+21,Czech Republic,CZE,16.66
+22,Suriname,SUR,16.7
+23,Portugal,PR1,17.27
+24,Latvia,LVA,17.38
+25,Australia,AUS,17.84
+26,Ghana,GHA,17.95
+27,Cyprus,CYP,18.26
+28,Liechtenstein,LIE,18.36
+29,Samoa,WSM,18.8
+30,OECS,XCD,18.91
+31,Chile,CHL,19.23
+32,Cape Verde,CPV,19.82
+33,Andorra,AND,19.87
+34,Spain,ESP,19.92
+35,Lithuania,LTU,19.95
+36,Belize,BLZ,20.61
+37,Tonga,TON,21.24
+38,United Kingdom,GBR,21.7
+39,South Africa,ZAF,21.92
+40,Slovenia,SVN,22.26
+41,United States,USA,22.49
+42,Burkina Faso,BFA,22.66
+43,Botswana,BWA,22.91
+44,Trinidad and Tobago,TTO,23.29
+45,France,FRA,23.83
+46,Malta,MLT,23.84
+47,Poland,POL,23.89
+48,Mauritania,MRT,24.03
+49,Romania,ROU,24.29
+50,Comoros,COM,24.33
+51,Taiwan,TWN,24.37
+52,Niger,NER,24.62
+53,Haiti,HTI,24.66
+54,Argentina,ARG,25.09
+55,Papua New Guinea,PNG,25.81
+56,Madagascar,MDG,27.04
+57,Guyana,GUY,27.07
+58,El Salvador,SLV,27.2
+59,Serbia,SRB,27.6
+60,Mongolia,MNG,27.61
+61,Mauritius,MUS,27.69
+62,Dominican Republic,DOM,27.9
+63,Croatia,HRV,27.91
+64,Georgia,GEO,27.96
+65,Senegal,SEN,27.99
+66,Malawi,MWI,28.12
+67,Hungary,HUN,28.17
+68,Bosnia and Herzegovina,BIH,28.45
+69,Hong Kong,HKG,28.5
+70,South Korea,KOR,28.58
+71,Tanzania,TZA,28.65
+72,Japan,JPN,28.67
+73,Lesotho,LSO,28.78
+74,Armenia,ARM,28.79
+75,Nicaragua,NIC,28.82
+76,Moldova,MDA,28.83
+77,Italy,ITA,28.93
+78,Benin,BEN,28.97
+79,Guinea-Bissau,GNB,29.03
+80,Fiji,FJI,29.37
+81,Cyprus North,CTU,29.54
+82,Albania,ALB,29.92
+83,Sierra Leone,SLE,29.94
+84,Peru,PER,29.99
+85,Kyrgyzstan,KGZ,30.16
+86,Ivory Coast,CIV,30.17
+87,Mozambique,MOZ,30.25
+88,Togo,TGO,30.31
+89,Greece,GRC,30.35
+90,Kosovo,XKO,30.5
+91,Panama,PAN,30.59
+92,Seychelles,SYC,30.6
+93,Liberia,LBR,30.71
+94,Bhutan,BTN,30.73
+95,Kenya,KEN,31.16
+96,Tunisia,TUN,31.6
+97,Bolivia,BOL,31.78
+98,Lebanon,LBN,31.95
+99,East Timor,TLS,32.02
+100,Gabon,GAB,32.2
+101,Israel,ISR,32.58
+102,Uganda,UGA,32.58
+103,Kuwait,KWT,32.59
+104,Brazil,BRA,32.62
+105,Nepal,NPL,32.62
+106,Montenegro,MNE,32.79
+107,Ukraine,UKR,32.93
+108,Guinea,GIN,33.08
+109,Ecuador,ECU,33.21
+110,Central African Republic,CAF,33.6
+111,Paraguay,PRY,33.63
+112,Maldives,MDV,34.17
+113,Bulgaria,BGR,34.46
+114,Zambia,ZMB,35.08
+115,Congo,COG,35.84
+116,Nigeria,NGA,35.9
+117,Qatar,QAT,35.97
+118,Macedonia,MKD,36.09
+119,United Arab Emirates,ARE,36.73
+120,Afghanistan,AFG,37.75
+121,Guatemala,GTM,38.03
+122,Mali,MLI,39.83
+123,Angola,AGO,39.89
+124,Zimbabwe,ZWE,40.41
+125,Oman,OMN,40.43
+126,Cameroon,CMR,40.53
+127,Chad,TCD,40.59
+128,Cambodia,KHM,40.7
+129,Algeria,DZA,41.69
+130,Indonesia,IDN,41.72
+131,Morocco,MAR,42.64
+132,Palestine,PSE,42.93
+133,India,IND,43.17
+134,Colombia,COL,44.11
+135,Jordan,JOR,44.49
+136,Thailand,THA,44.53
+137,Honduras,HND,44.62
+138,Philippines,PHL,44.66
+139,Venezuela,VEN,44.77
+140,South Sudan,SSD,44.87
+141,Sri Lanka,LKA,44.96
+142,Ethiopia,ETH,45.13
+143,Myanmar,MMR,45.48
+144,Bangladesh,BGD,45.94
+145,Gambia,GMB,46.53
+146,Malaysia,MYS,46.57
+147,Pakistan,PAK,48.52
+148,Russian Federation,RUS,49.03
+149,Mexico,MEX,49.33
+150,Tajikistan,TJK,50.34
+151,Turkey,TUR,50.76
+152,The Democratic Republic Of The Congo,COD,50.97
+153,Swaziland,SWZ,52.37
+154,Singapore,SGP,52.96
+155,Brunei Darussalam,BRN,53.85
+156,Burundi,BDI,54.1
+157,Belarus,BLR,54.32
+158,Iraq,IRQ,54.35
+159,Egypt,EGY,54.45
+160,Kazakhstan,KAZ,54.55
+161,Rwanda,RWA,54.61
+162,Bahrain,BHR,54.86
+163,Azerbaijan,AZE,57.89
+164,Libya,LBY,57.89
+165,Saudi Arabia,SAU,59.72
+166,Uzbekistan,UZB,61.15
+167,Somalia,SOM,65.35
+168,Equatorial Guinea,GNQ,66.47
+169,Islamic Republic of Iran,IRN,66.52
+170,Yemen,YEM,67.07
+171,Cuba,CUB,70.23
+172,Djibouti,DJI,70.9
+173,Lao People's Democratic Republic,LAO,71.58
+174,Sudan,SDN,72.53
+175,Vietnam,VNM,74.27
+176,China,CHN,80.96
+177,Syrian Arab Republic,SYR,81.35
+178,Turkmenistan,TKM,83.44
+179,Democratic People's Republic of Korea,PRK,83.76
+180,Eritrea,ERI,83.92
